@@ -1,0 +1,6 @@
+passenger_id,flight_id,name,age,gender,seat_number,ticket_price
+101,1,John Smith,34,Male,12A,250.00
+102,1,Jane Doe,28,Female,14C,250.00
+103,2,Robert Brown,45,Male,22B,320.00
+104,3,Emily Johnson,32,Female,7D,200.00
+105,5,Michael Lee,29,Male,19F,275.00

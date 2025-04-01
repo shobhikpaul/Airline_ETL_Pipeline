@@ -1,0 +1,6 @@
+flight_id,airline,flight_number,origin,destination,departure_time,arrival_time,status
+1,Delta,DL101,JFK,LAX,2024-03-30 08:00:00,2024-03-30 11:00:00,On Time
+2,United,UA220,ORD,SFO,2024-03-30 09:15:00,2024-03-30 12:30:00,Delayed
+3,American,AA350,MIA,DFW,2024-03-30 07:45:00,2024-03-30 10:15:00,On Time
+4,Southwest,SW555,ATL,DEN,2024-03-30 06:30:00,2024-03-30 08:45:00,Canceled
+5,JetBlue,B623,BOS,SEA,2024-03-30 10:00:00,2024-03-30 13:30:00,On Time
